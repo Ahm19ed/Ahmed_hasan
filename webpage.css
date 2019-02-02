@@ -1,0 +1,15 @@
+body {
+    margin: 5px 100px;
+}
+ul li {
+    list-style-type: none;
+    float: right;
+    margin-top: -90px;
+    padding: 37px;
+}
+li a {
+    cursor: pointer;  
+}
+a:hover {
+    border-bottom: 1.5px red solid;
+}
